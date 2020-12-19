@@ -10,7 +10,7 @@ intro_actions:
   - label: Learn More
     url: /about
     style: primary
-  - label: Contacts
+  - label: Contact
     url: /contact
     style: secondary
 has_more_link: true
